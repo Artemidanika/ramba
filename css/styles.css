@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+
+
+a, button {
+    cursor: pointer;
+}
+
+ul, ol {
+    margin: 0;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+
+.header-container {
+    display: flex;
+}
